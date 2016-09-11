@@ -8,14 +8,20 @@
 所有照片都在这里,https://github.com/FarwestForSell/sell)
 
 
-modem,
+modem
 ========================
 
 购自bestbuy, (10美元)
 netgear牌子, 这个手头没图.
 
+
 架子(10美元)
+=======================
+
 那个切面包的附送.
+
+..figure:: ./架子.jpg
+
 
 垃圾桶加咖啡壶(10美元)
 
